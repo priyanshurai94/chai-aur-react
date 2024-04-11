@@ -1,10 +1,11 @@
 
+import Chai from "./chai"
 
 function App() {
   
 
   return (
-    <h1>Priyanshu Rai Create Vite Project</h1>
+    <Chai/>
   )
 }
 
